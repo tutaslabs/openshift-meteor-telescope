@@ -1,0 +1,245 @@
+{
+  "format": "web-program-pre1",
+  "manifest": [
+    {
+      "path": "f85aff8c9777c1e1791ba95d452bf5c59e7cbd03.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/f85aff8c9777c1e1791ba95d452bf5c59e7cbd03.js",
+      "size": 1302382,
+      "hash": "f85aff8c9777c1e1791ba95d452bf5c59e7cbd03"
+    },
+    {
+      "path": "158282c4432256b97d352a90e8980850c85b78d3.css",
+      "where": "client",
+      "type": "css",
+      "cacheable": true,
+      "url": "/158282c4432256b97d352a90e8980850c85b78d3.css?meteor_css_resource=true",
+      "size": 111638,
+      "hash": "158282c4432256b97d352a90e8980850c85b78d3"
+    },
+    {
+      "path": "packages/bengott_avatar/default.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/bengott_avatar/default.png",
+      "size": 1577,
+      "hash": "76ec76887e4c748e6358a2aaf9b57006567f8999"
+    },
+    {
+      "path": "packages/telescope-datetimepicker/fonts/glyphicons-halflings-regular.eot",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/telescope-datetimepicker/fonts/glyphicons-halflings-regular.eot",
+      "size": 20335,
+      "hash": "f3a9a3b609133c3d21d6b42abbf7f43bd111df72"
+    },
+    {
+      "path": "packages/telescope-datetimepicker/fonts/glyphicons-halflings-regular.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/telescope-datetimepicker/fonts/glyphicons-halflings-regular.svg",
+      "size": 62926,
+      "hash": "66b1fc67e37d01ee45ca75c4eefb144d2dbe98fa"
+    },
+    {
+      "path": "packages/telescope-datetimepicker/fonts/glyphicons-halflings-regular.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/telescope-datetimepicker/fonts/glyphicons-halflings-regular.ttf",
+      "size": 41280,
+      "hash": "aafafdc09404c4aa4447d7e898a2183def9cc1b1"
+    },
+    {
+      "path": "packages/telescope-datetimepicker/fonts/glyphicons-halflings-regular.woff",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/telescope-datetimepicker/fonts/glyphicons-halflings-regular.woff",
+      "size": 23320,
+      "hash": "22037a3455914e5662fa51a596677bdb329e2c5c"
+    },
+    {
+      "path": "packages/telescope-getting-started/content/images/stackoverflow.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/telescope-getting-started/content/images/stackoverflow.png",
+      "size": 4603,
+      "hash": "603d20c54eb5de67702314d66e95da0a4c7cf08c"
+    },
+    {
+      "path": "packages/telescope-getting-started/content/images/telescope.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/telescope-getting-started/content/images/telescope.png",
+      "size": 26004,
+      "hash": "d8b5220a929413bd8dd37226b9f3efa05a813b23"
+    },
+    {
+      "path": "app/img/bg-black.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/bg-black.png",
+      "size": 939,
+      "hash": "953b7241f793d15f5bee085af2ad357757e1cf62"
+    },
+    {
+      "path": "app/img/bg-black@2x.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/bg-black@2x.png",
+      "size": 949,
+      "hash": "c4afab1e22f0e436f0109e68b2a1bd1b3b957696"
+    },
+    {
+      "path": "app/img/bg-header.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/bg-header.png",
+      "size": 942,
+      "hash": "b5459e6b1ef9dbd0d5699dfef6069802b5d02180"
+    },
+    {
+      "path": "app/img/bg-header@2x.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/bg-header@2x.png",
+      "size": 953,
+      "hash": "76fb76ca86f7955f092f3127876f373c7c38b9d3"
+    },
+    {
+      "path": "app/img/bg.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/bg.png",
+      "size": 945,
+      "hash": "d03b99566f920d7da4d91a4cd7ff10ae773c0d0b"
+    },
+    {
+      "path": "app/img/bg@2x.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/bg@2x.png",
+      "size": 952,
+      "hash": "fd083cdb1e43044e81ebbbaa07622a2008b98f1c"
+    },
+    {
+      "path": "app/img/default-avatar.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/default-avatar.png",
+      "size": 4377,
+      "hash": "ea0eb98f33480ab75ff9396c227d0e06e4b7b4ef"
+    },
+    {
+      "path": "app/img/favicon.ico",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/favicon.ico",
+      "size": 8348,
+      "hash": "aaae79b23c4bd0833a2cd209275f428d44653310"
+    },
+    {
+      "path": "app/img/loading-balls.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/loading-balls.svg",
+      "size": 1377,
+      "hash": "4b68d0ee62f67916570ba998319f6b66e5ce83de"
+    },
+    {
+      "path": "app/img/loading.gif",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/loading.gif",
+      "size": 673,
+      "hash": "a3243ca6a628b77b3523a18aff6bafae85b45adc"
+    },
+    {
+      "path": "app/img/loading.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/loading.svg",
+      "size": 1639,
+      "hash": "e209c32ad50816f31ab8d63bb7a4c21971ebea02"
+    },
+    {
+      "path": "app/img/logo.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/logo.png",
+      "size": 1183,
+      "hash": "9156774811c13a5a774212114ea12a0a9dbe0a6a"
+    },
+    {
+      "path": "app/img/logo@2x.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/logo@2x.png",
+      "size": 1317,
+      "hash": "36ba42c2bc1db343fadb6588085fb3ab3569f62c"
+    },
+    {
+      "path": "app/img/telescope-logo.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/telescope-logo.png",
+      "size": 2198,
+      "hash": "2603324a6ce9238ebee44d18de2474ee55908dbd"
+    },
+    {
+      "path": "app/img/telescope-logo2.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/telescope-logo2.png",
+      "size": 9619,
+      "hash": "e0ba812a45570cf5049647d73c676cc36cb01572"
+    },
+    {
+      "path": "app/img/telescope-logo@2x.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/telescope-logo@2x.png",
+      "size": 3624,
+      "hash": "9076935cb72f78de0b9301d41add05b1ffc44c1f"
+    },
+    {
+      "path": "app/img/thegrid.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/thegrid.svg",
+      "size": 1805,
+      "hash": "ba9a9e21a7df7ae4ae248b63d5162619c93af686"
+    },
+    {
+      "path": "head.html",
+      "where": "internal",
+      "type": "head",
+      "hash": "45bf9f4a346682ee52b827b74ac80c3d978c948f"
+    }
+  ]
+}

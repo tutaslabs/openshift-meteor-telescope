@@ -1,0 +1,1 @@
+{"version":3,"file":"/packages/meteorhacks:kadira-binary-deps.js","sources":["meteorhacks:kadira-binary-deps/index.js"],"names":[],"mappings":";;;;;;;;;;;;;;;;AAAA,sB;AACA,6C;AACA,6B;AACA,E","sourcesContent":["KadiraBinaryDeps = {};\nKadiraBinaryDeps.require = function(module) {\n  return Npm.require(module);\n};"]}
